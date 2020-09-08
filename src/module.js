@@ -1,6 +1,6 @@
 // Exportation de la fonction disBonjour
 export function disBonjour(prenom) {
-  alert("Bonjour " + prenom);
+  alert("Hello " + prenom);
 }
 
 function nomComplet(prenom, nom) {
